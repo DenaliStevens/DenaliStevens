@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a member of the class of 2024 at St. Lawrence University and a data science major. 
+
+I'm from Sun Valley, Idaho and hope to move back after graduation. 
+
 <!--
 **DenaliStevens/DenaliStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
