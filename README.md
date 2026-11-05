@@ -10,6 +10,20 @@ All of these projects were completed while I was a student at St. Lawrence Unive
 
 SYE was created for my senior year seminar and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. It has some interesting code in it, but I can't find the shiny app? Did I ever publish a link?
 
+**DATA_334**
+
+
+**personal_page**
+
+
+**DS334blog**
+
+
+**ds334_finalProject**
+
+
+https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-03-29/readme.md
+
 <!--
 **DenaliStevens/DenaliStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
