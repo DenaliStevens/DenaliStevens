@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a member of the class of 2024 at St. Lawrence University and a data science major. 
+Hello, welcome to my github. I don't really use it much these days, as I graduated from college a few years ago and haven't used it since. After finishing school I moved back to Ketchum, Idaho and started working seasonally. I spend my summers raft guiding on the Salmon River and my winters bartending in Sun Valley and skiing as much as possible. 
 
-I'm from Sun Valley, Idaho and hope to move back after graduation. 
+All of these projects were completed while I was a student at St. Lawrence University, where I graduated from in 2024 with a bachelor’s of science in Data Science. 
 
 <!--
 **DenaliStevens/DenaliStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
