@@ -4,6 +4,9 @@ Hello, welcome to my github. I don't really use it much these days, as I graduat
 
 All of these projects were completed while I was a student at St. Lawrence University, where I graduated from in 2024 with a bachelor’s of science in Data Science. 
 
+### Repository Overviews 
+## A quick synopses and break down of each of my repositories
+
 <!--
 **DenaliStevens/DenaliStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
