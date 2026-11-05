@@ -5,7 +5,9 @@ Hello, welcome to my github. I don't really use it much these days, as I graduat
 All of these projects were completed while I was a student at St. Lawrence University, where I graduated from in 2024 with a bachelor’s of science in Data Science. 
 
 ### Repository Overviews 
-## A quick synopses and break down of each of my repositories
+#### A quick synopses and break down of each of my repositories
+**SYE**
+SYE was created for my senior year seminar and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. It has some interesting code in it, but I can't find the shiny app? Did I ever publish a link?
 
 <!--
 **DenaliStevens/DenaliStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
