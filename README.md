@@ -8,7 +8,7 @@ All of these projects were completed while I was a student at St. Lawrence Unive
 #### A quick synopses and break down of each of my pinned repositories
 **SYE**
 
-SYE was created for my senior year seminar and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. This project doesn't include a published shiny app, but there is an "app.R" file in each folder that contains code for building an app as well as a qmd file in CollegiateSports that I used as a starting point to explore this data set. 
+SYE was created for my senior year experince and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. This project doesn't include a published shiny app, but there is an "app.R" file in each folder that contains code for building an app as well as a qmd file in CollegiateSports that I used as a starting point to explore this data set. 
 
 
 **DS334blog**
