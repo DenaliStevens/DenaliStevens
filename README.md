@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, welcome to my github. I don't really use it much these days, as I graduated from college a few years ago and haven't used it since. After finishing school I moved back to Ketchum, Idaho and started working seasonally. I spend my summers raft guiding on the Salmon River and my winters bartending in Sun Valley and skiing as much as possible. 
+Hello, welcome to my github. I don't really use it much these days, as I graduated from college a few years ago and haven't used it since. After finishing school I moved back to Ketchum, Idaho and started working seasonally. I spend my summers raft guiding on the Salmon River and my winters bartending in Sun Valley and getting on the mountian as much as possible.
 
 All of these projects were completed while I was a student at St. Lawrence University, where I graduated from in 2024 with a bachelor’s of science in Data Science. 
 
