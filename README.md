@@ -8,21 +8,18 @@ All of these projects were completed while I was a student at St. Lawrence Unive
 #### A quick synopses and break down of each of my repositories
 **SYE**
 
-SYE was created for my senior year seminar and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. It has some interesting code in it, but I can't find the shiny app? Did I ever publish a link?
-
-**DATA_334**
-
-
-**personal_page**
+SYE was created for my senior year seminar and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. This project doesn't include a published shiny app, but there is an "app.R" file in each folder that contains code for building an app as well as a qmd file in CollegiateSports that I used as a starting point to explore this data set. 
 
 
 **DS334blog**
 
+This was a blog created for a data visualization class where github was used to submit assignments and keep track of class work. It contains three blog posts, each that lightly explore and create visualizations for different data sets, and a post that contains a lighter version of my final project for this class which is further explored in another repo. The read.me file in this repo provides a link to a published shiny app that demonstrates each of these posts.
 
 **ds334_finalProject**
 
+This repo contains a large project that I completed for a data visualization class, that also overlapped with my senior year seminar as it became a shiny app. It does not have a published shiny app, but it does contain all the code I used to build it and the app.R file in Final_App can be used to generate and launch the shiny app. 
 
-https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-03-29/readme.md
+
 
 <!--
 **DenaliStevens/DenaliStevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
