@@ -1,23 +1,22 @@
 ### Hi there 👋
 
-Hello, welcome to my github. I don't really use it much these days, as I graduated from college a few years ago and haven't used it since. After finishing school I moved back to Ketchum, Idaho and started working seasonally. I spend my summers raft guiding on the Salmon River and my winters bartending in Sun Valley and getting on the mountian as much as possible.
+Hello, welcome to my Github. 
 
-All of these projects were completed while I was a student at St. Lawrence University, where I graduated from in 2024 with a bachelor’s of science in Data Science. 
+All of these projects were completed while I was a student at St. Lawrence University, where I graduated from in 2024 with a Bachelor of Science in Data Science. 
 
 ### Repository Overviews 
-#### A quick synopses and break down of each of my pinned repositories
-**SYE**
+#### A quick synopsis and break down of each of my pinned repositories
+**Senior Year Experience (SYE)**
 
-SYE was created for my senior year experince and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in R studio. This project doesn't include a published shiny app, but there is an "app.R" file in each folder that contains code for building an app as well as a qmd file in CollegiateSports that I used as a starting point to explore this data set. 
-
+SYE was created for my senior year experience and was a project I worked on in my final semester to continue learning in data science in whichever direction I chose. At the time I was invested in learning about shiny apps in RStudio.
 
 **DS334blog**
 
-This was a blog created for a data visualization class where github was used to submit assignments and keep track of class work. It contains three blog posts, each that lightly explore and create visualizations for different data sets, and a post that contains a lighter version of my final project for this class which is further explored in another repo. The read.me file in this repo provides a link to a published shiny app that demonstrates each of these posts.
+This was a blog created for a data visualization class where GitHub was used to submit assignments and keep track of class work. It contains three blog posts, each that lightly explore and create visualizations for different data sets, and a post that contains a lighter version of my final project for this class which is further explored in another repo. The README file in this repo provides a link to a published shiny app that demonstrates each of these posts.
 
 **ds334_finalProject**
 
-This repo contains a national parks project that I completed for a data visualization class, that also overlapped with my senior year seminar as it became a shiny app. The app has three separate pages, one that plots each national on an interactive map and two that allow for users to look further into parks' visitor counts. However, the code used to publish this app is not the same as the code saved in the app.R file, as the code that shows the app with information about all parks in the US (with classifications like historic park, national preserve, scenic trail, ect.) was too large of a file to publish to an app. More about this was discussed in the WriteUp.qmd. The link to the live app is provided in the read.me of the repo. 
+This repo contains a national parks project that I completed for a data visualization class, that also overlapped with my senior year seminar as it became a shiny app. The app has three separate pages, one that plots each national on an interactive map and two that allow for users to look further into parks' visitor counts. However, the code used to publish this app is not the same as the code saved in the app.R file, as the code that shows the app with information about all parks in the US (with classifications like historic park, national preserve, scenic trail, ect.) was too large of a file to publish to an app. More about this was discussed in the WriteUp.qmd. The link to the live app is provided in the README of the repo. 
 
 
 <!--
