@@ -17,8 +17,7 @@ This was a blog created for a data visualization class where github was used to 
 
 **ds334_finalProject**
 
-This repo contains a large project that I completed for a data visualization class, that also overlapped with my senior year seminar as it became a shiny app. It does not have a published shiny app, but it does contain all the code I used to build it and the app.R file in Final_App can be used to generate and launch the shiny app. 
-
+This repo contains a national parks project that I completed for a data visualization class, that also overlapped with my senior year seminar as it became a shiny app. The app has three separate pages, one that plots each national on an interactive map and two that allow for users to look further into parks' visitor counts. However, the code used to publish this app is not the same as the code saved in the app.R file, as the code that shows the app with information about all parks in the US (with classifications like historic park, national preserve, scenic trail, ect.) was too large of a file to publish to an app. More about this was discussed in the WriteUp.qmd. 
 
 
 <!--
